@@ -11,7 +11,7 @@ This project is an interactive web application built with Streamlit for predicti
 
 ## 🚀 Live Demo
 
-[Link to your deployed Streamlit App](https://your-streamlit-app-url.streamlit.app/)
+[Link to your deployed Streamlit App](https://diabetes-predictor-3zyagtcsuxuhl6zkrvrgzk.streamlit.app/)
 
 ## 🛠️ Tech Stack
 
